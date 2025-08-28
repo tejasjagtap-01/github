@@ -1,0 +1,11 @@
+fixes
+
+another fix added.
+
+another bug detected and fixed
+
+another fifth bug detected and fixed
+
+another sixth bug detected and fixed.
+
+for dark-mode we are doing these work.!
