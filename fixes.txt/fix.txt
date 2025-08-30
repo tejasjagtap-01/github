@@ -22,3 +22,5 @@ another sixth bug detected and fixed.
 for dark-mode we are doing these work.!
 
 the 30-08-25 work.
+
+the concept of stashing 
